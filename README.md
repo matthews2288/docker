@@ -1,1 +1,1 @@
-# 日常中整理的docker应用，随意使用
+# Docker applications organized in daily life, free to use
